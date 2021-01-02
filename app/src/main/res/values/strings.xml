@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SpaceDIM Visuel</string>
+    <string name="backToMenu">Retourner au menu</string>
 </resources>
